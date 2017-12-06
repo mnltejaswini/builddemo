@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\builddemo\\BuildDemoApp\\BuildDemoApp.csproj",
+      "projectUniqueName": "D:\\builddemo\\builddemo\\BuildDemoApp\\BuildDemoApp.csproj",
       "projectName": "BuildDemoApp",
-      "projectPath": "D:\\builddemo\\BuildDemoApp\\BuildDemoApp.csproj",
+      "projectPath": "D:\\builddemo\\builddemo\\BuildDemoApp\\BuildDemoApp.csproj",
       "packagesPath": "C:\\Users\\naduggar\\.nuget\\packages\\",
-      "outputPath": "D:\\builddemo\\BuildDemoApp\\obj\\",
+      "outputPath": "D:\\builddemo\\builddemo\\BuildDemoApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
