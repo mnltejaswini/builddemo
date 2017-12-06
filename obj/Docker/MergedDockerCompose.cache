@@ -1,0 +1,7 @@
+services:
+  builddemoapp:
+    build:
+      context: D:\builddemo
+      dockerfile: BuildDemoApp/Dockerfile
+    image: builddemoapp
+version: '3.0'
